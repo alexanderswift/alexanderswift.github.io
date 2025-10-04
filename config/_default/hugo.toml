@@ -1,0 +1,24 @@
+baseURL = "https://thee.cloud/"
+title = "Thee Cloud"
+theme = "hugoplate"
+languageCode = "en-us"
+languageName = "En"
+timeZone = "Australia/Sydney"
+
+# Enable emoji support
+enableEmoji = true
+
+# Pagination
+paginate = 6
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Build settings
+[build]
+  writeStats = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
