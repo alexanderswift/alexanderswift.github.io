@@ -1,4 +1,4 @@
-baseURL = "https://thee.cloud/"
+baseURL = "https://alexanderswift.github.io"
 title = "Thee Cloud - Enterprise Security for SMBs"
 theme = "hugoplate"
 languageCode = "en-us"
